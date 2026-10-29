@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoTouch</string>
+    <string name="service_label">AutoTouch automation</string>
+    <string name="service_description">Lets AutoTouch tap, swipe and type into other apps by running the macro script you write. It only acts when you press Run.</string>
+</resources>
